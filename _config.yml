@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://stephenajulu.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -12,7 +12,7 @@ url: "https://le4ker.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+#baseurl: /personal-jekyll-theme
 
 # Google tracking id
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Stephen Ajulu"
+title: "{ Stephen Odero Ajulu }"
+description: "Blog, Personal Website and Portfolio of Stephen Ajulu, blogging mainly about tech, cybersecurity and self improvement. Opinions expressed are mine."
+keywords: "stephen, ajulu, personal, jekyll, theme, stephen ajulu, portfolio, odero, stephen odero ajulu, tech, cybersecurity, ajulu's thought's, blog, website, github pages"
 favicon: "/img/favicon.ico"
 
 ################
@@ -51,12 +51,14 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 5
 start-delay: 200
-delete-delay: 5000
+delete-delay: 7000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "I.T & Cybersecurity Expert"
+  - text: "Ethical Hacker/Pentester"
+  - text: "Front End Web Developer"
+  - text: "Graphics/UI/UX Designer"
 
 me-img: "/img/jetpacktocat.png"
 
