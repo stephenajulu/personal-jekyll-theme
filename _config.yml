@@ -55,10 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I.T and Cybersecurity Expert"
-  - text: "Ethical Hacker/Pentester"
-  - text: "Front End Web Developer"
-  - text: "Graphics,UI and UX Designer"
+  - text: "I.T, Cybersecurity Expert and Ethical Hacker"
+  - text: "Front End Web Developer and Graphics/UI/UX Designer"
 
 # me-img: "/img/jetpacktocat.png"
 
