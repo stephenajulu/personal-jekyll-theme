@@ -51,14 +51,14 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 3
-start-delay: 100
-delete-delay: 6000
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "I.T & Cybersecurity Expert"
+  - text: "I.T and Cybersecurity Expert"
   - text: "Ethical Hacker/Pentester"
   - text: "Front End Web Developer"
-  - text: "Graphics/UI/UX Designer"
+  - text: "Graphics,UI and UX Designer"
 
 # me-img: "/img/jetpacktocat.png"
 
