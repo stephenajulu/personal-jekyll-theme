@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "rsz_favicon.ico"
+black-favicon: "rsz_favicon.png"
 
 background-img: "/img/intro-big.jpg"
 
