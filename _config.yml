@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -124,7 +124,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "personal-jekyll-theme"
+disqus-shortname: "stephenajulu"
 
 syntax-highlight: True
 
@@ -148,7 +148,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "alunje73@pm.me"
 
 ################
 # Author Blurb #
@@ -187,7 +187,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: stephenajulu
 keybase-in-social: True
 keybase-in-footer: True
 
