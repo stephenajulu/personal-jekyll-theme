@@ -147,6 +147,7 @@ timeline-img: "/img/timeline/default.png"
 ###########
 
 email: "alunje73@pm.me"
+phone: "+254740128010"
 
 ################
 # Author Blurb #
@@ -156,7 +157,7 @@ email: "alunje73@pm.me"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Stephen Ajulu is an awesome person. He lives in Kenya, where he is currently studying a bachelor of science in Information Technology. He is self employed. Working as a front end web deveoper, I.T consultant, graphic designer and ethical hacker. In his spare time, Stephen likes to watch movies, play video games, make websites, practise hacking and research."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -165,13 +166,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/stephenajulu"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/stephenajulu"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/stephenajulu"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/stephenajulu/"
   - title: "rss"
     url: "/feed.xml"
 
