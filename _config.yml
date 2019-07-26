@@ -51,16 +51,16 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 5
-start-delay: 200
-delete-delay: 7000
+type-speed: 3
+start-delay: 100
+delete-delay: 6000
 lines: # You can add HTML Tags in the Text
   - text: "I.T & Cybersecurity Expert"
   - text: "Ethical Hacker/Pentester"
   - text: "Front End Web Developer"
   - text: "Graphics/UI/UX Designer"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -80,7 +80,7 @@ me-img: "/img/jetpacktocat.png"
 # You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
 # just enter your email and it will generate the hash.
 
-# me-img: "https://www.gravatar.com/avatar/email_hash?s=500"
+me-img: "https://www.gravatar.com/avatar/431cde6822aeabd6bdec99eff08b37b1?s=500"
 
 ##############################
 # Color the browser elements #
