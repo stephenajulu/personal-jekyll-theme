@@ -1,9 +1,10 @@
+
 ---
 layout: post
 section-type: post
 title: Data about data: Metadata
 category: tech
-tags: [ 'metadata', 'data' ]
+tags: [ 'metadata', 'data about data' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, how are you doing?</p>
