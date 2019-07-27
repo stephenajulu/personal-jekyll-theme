@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Android Hacking Apps: Root and No Root
+title: Android Hacking Apps Root and No Root
 category: hacking
 tags: [ 'android hacking apps', 'hacking apps for android' ]
 ---
