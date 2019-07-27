@@ -1,11 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Top 5 Free Windows Antivirus
-date: 2019-06-05 17:30
-author: ajulusthoughts
-comments: true
-categories: [antimalware, antivirus, antivirus free, av-test, avast, avg, avtest, best free antivirus, bitdefender, checkpoint zonealarm, free, free antivirus, kaspersky, malware, ransomware, top 5 antivirus, top 5 free antivirus, trojan, trojans, UNCATEGORIZED, virus, viruses, windows defender, worm, worms]
+category: cybersecurity
+tags: [ 'top windows antivirus', 'free antivirus' ]
 ---
+
 <!-- wp:paragraph -->
 <p>To begin, i need to mention that Windows Defender is doing a pretty good job at protecting your Windows 10 computer. </p>
 <!-- /wp:paragraph -->
