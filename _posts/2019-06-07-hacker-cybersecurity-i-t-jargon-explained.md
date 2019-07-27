@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Hacker/Cybersecurity/I.T Jargon Explained
-date: 2019-06-07 14:15
-author: ajulusthoughts
-comments: true
-categories: [adware, Ajulu's Thoughts, anonymous, bot, botnet, brute force, complier, cookie, cybersecurity, cybersecurity jargon explained, cybersecurity terminology, denial of service, doxing, explained, firewall, glossary, hacker, hacker jargon explained, hacker terminology, hacker/cybersecurity, hackers, hacking, hacktivist, hash, I.T, I.T jagon explained, INFORMATION TECHNOLOGY, ip, It terminology, jargon, keylogging, keystroke, logic bomb, malware, nsa, payload, phishing, remote access, rootkit, script kiddie, social engineering, spam, spoofing, spyware, TECH &amp; CYBERSECURITY, terminology, timebomb, trojan horse, virus, vulnerability, whaling, white hat, white hat vs grey hat vs black hat vs script kiddie vs green hat vs red hat vs blue hat vs hacktivist, worm, zero day, zero day exploit]
+category: tech
+tags: [ 'terminology', 'jargon', 'tech dictionary' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Have you ever installed an antivirus tool on your computer? Read a story about WikiLeaks or the Arab Spring? Opened a bank account? Then hacking is important to you, even if  remains largely in the background of your life. It makes sense to get  informed about it. Unfortunately, it is a very technical subject, with a  great deal of specialized vocabulary.</p>
