@@ -1,10 +1,17 @@
 ---
 layout: post
+section-type: post
 title: Top Tech Jobs
-date: 2019-07-04 11:58
-author: ajulusthoughts
-comments: true
-categories: [Artificial Intelligence, cybersecurity, deep learning, ethical hacking, graphics design, machine learning, nanotechnology, robotics, TECH &amp; CYBERSECURITY, tech jobs, tech jobs likely to be around for a while, ui, ux, web development]
+categories: work
+tags: tech jobs
+---
+---
+layout: post
+section-type: post
+title: Invest in Yourself
+categories: lifestyle
+Published: True
+tags: [ 'invest in yourself' ]
 ---
 <!-- wp:heading -->
 <h2><strong>1.Artificial Intelligence</strong></h2>
