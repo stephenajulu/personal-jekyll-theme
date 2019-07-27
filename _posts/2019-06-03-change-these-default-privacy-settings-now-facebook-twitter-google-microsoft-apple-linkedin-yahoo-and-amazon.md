@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Change These Default Privacy Settings Now! Facebook, Twitter, Google, Microsoft, Apple, LinkedIn, Yahoo and Amazon
-category: tutorial
+category: privacy
 tags: [ 'privacy settings', 'social media' ]
 ---
 <!-- wp:paragraph -->
