@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Privacy, Security and Anonymity Mini Guide & Links
-date: 2018-09-26 15:04
-author: ajulusthoughts
-comments: true
-categories: [anonymity, anonymous, anti-rootkit, antimalware, antivirus, avtest, DuckDuckGo.com, lastpass, links, mini guide, privacttools, privacy, privacy tools, privacytools.io, protonmail, safe, secure, security, security tools, TECH &amp; CYBERSECURITY, technology, temp mail, windows]
+category: cybersecurity
+tags: [ 'privacy', 'security', 'anonymity' ]
 ---
 <p class="MsoTitle"><b><u>Security Policies and Resources</u></b></p>
 &nbsp;
