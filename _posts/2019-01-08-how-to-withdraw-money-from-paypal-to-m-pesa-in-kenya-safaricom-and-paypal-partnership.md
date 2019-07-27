@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: How to Withdraw Money from PayPal to M-Pesa in Kenya: Safaricom and PayPal Partnership
-date: 2019-01-08 13:15
-author: ajulusthoughts
-comments: true
-categories: [b2b mobile payment, deposit to mpesa via paypal, m-pesa tu, paypal, PayPal to M-Pesa, paypal to mpesa, paypal-mobiemoney.com/mpesa, safaricom, Safaricom and paypal, Safaricom and PayPal partnership, TECH &amp; CYBERSECURITY, transferto, withdraw from paypal, withdraw from PayPal to mpesa]
+category: tutorials
+tags: [ 'withdraw money from paypal to mpesa', 'paypal kenya' ]
 ---
 <!-- wp:paragraph -->
 <p><span class="cb-itemprop"><p>Withdrawals and Deposits from  PayPal to M-Pesa and Vice-versa are now officially possible through a partnership  between PayPal and Safaricom. The new service is operated by TransferTo,  a B2B mobile payment company. To withdraw the funds, you need to do the following 1. Have a PayPal account.<br> 2. Go to <a rel="noopener noreferrer" href="https://www.paypal-mobilemoney.com/m-pesa/" target="_blank">paypal-mobilemoney.com/m-pesa</a> and click on log in (top right corner).<br> 3. You will be prompted to log in and thereafter agree to terms of using the service.<br> 4. Add your M-Pesa phone number</p></span></p>
