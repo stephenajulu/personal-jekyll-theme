@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Public Services Portal IFMIS Hacked
-date: 2019-06-03 15:34
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, defaced, defaced site, hacked, ifmis, ifmis portal, ifmis portal hacked, kenya, kenya cyberinsecurity, public services portal hacked, public services portal ifmis hacked, TECH &amp; CYBERSECURITY]
+category: news
+tags: [ 'kenya hacked', 'IFMIS hacked' ]
 ---
 <!-- wp:image {"id":84779,"align":"center"} -->
 <div class="wp-block-image"><figure class="aligncenter"><img src="https://i2.wp.com/techweez.com/wp-content/uploads/2019/06/Hacked-IFMIS-site.jpg?resize=640%2C473&amp;ssl=1" alt="" class="wp-image-84779" /></figure></div>
