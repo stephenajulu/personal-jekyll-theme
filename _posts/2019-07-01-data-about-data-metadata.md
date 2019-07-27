@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Data about data Metadata
+title: Data about data, Metadata
 category: tech
 tags: [ 'metadata', 'data about data' ]
 ---
