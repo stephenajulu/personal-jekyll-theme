@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: The Linux Filesystem
-date: 2019-06-05 16:15
-author: ajulusthoughts
-comments: true
-categories: [/, Ajulu's Thoughts, bin, boot, dev, etc, filesystem, home, lib, linux, linux commands, linux filesystem, linux laptop, Linux mint, linux terminal, lost+found, misc, mnt, net, proc, root, sbin, TECH &amp; CYBERSECURITY, the filesystem for linux, tmp, usr, var]
+category: tech
+tags: [ 'linux', 'filesystem', 'linux filesystem' ]
 ---
 <!-- wp:paragraph -->
 <p> This tutorial will help you get up to speed on the Linux filesystem.</p>
