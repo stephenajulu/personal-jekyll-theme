@@ -1,11 +1,10 @@
 ---
 layout: post
+section-type: post
 title: How To Obtain Certificates Needed To Successfully Apply For The Advertised Jobs In Kenya
-date: 2019-07-23 19:43
-author: ajulusthoughts
-comments: true
-categories: [Certificate from Credit Reference Bureau, Certificate of Good Conduct, Certificate of Good Conduct from Criminal Investigation Department (CID), Certificates Needed To Successfully Apply For The Advertised Jobs In Kenya, CID, CID Certificate Of Good Conduct, Criminal Investigation Department, EACC, EACC Clearance, Ethics and Anti-corruption commission (EACC) clearance, Ethics and Anti-corruption Commission clearance Certificate (EACC), Good Conduct, Higher Education Loans Board Clearance, Higher Education Loans Board clearance Certificate(HELB), Kenya Revenue Authority Tax Compliance, Kenya Revenue Authority Tax compliance Certificate (KRA), KRA, KRA Tax Compliance, Tax Compliance, WORK &amp; CAREERS]
+categories: [work]
 ---
+
 <!-- wp:paragraph -->
 <p>Devolution is the major change in Kenya right now, 
 and many people in Kenya are looking forward to benefit from devolved 
