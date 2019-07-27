@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Massive ‘Collection #1’ Breach Exposes 777 Million Emails, 22 Million Passwords
-date: 2019-01-17 22:01
-author: ajulusthoughts
-comments: true
-categories: [21 Million Passwords, 773 million emails, black hat, black hat hacker, breach, collection #1, crackers, data, data leaks, deleteme, exposed emails and passwords, Exposes 773 Million Emails, Grey hat, hackers, hacking, identity, identity theft, info leaks, lack of privacy, massive leak, passe database, password, password length, personal data, privacy, privacy issues, privacy nightmare, protect your data, recommended password length, safe, security, security issues, stealing, strong passwords, TECH &amp; CYBERSECURITY, uncrackable, unhackable]
+category: cybersecurity, news
+tags: [ 'tag1', 'tag2' ]
 ---
 Hey guys, how are y'all doing? Another massive data dump has just occurred. And as the title says it's big and serious. I'll post links to help you check out if your passwords or emails are part of the dump. My advice, whether or not you find your data, go change your password to a strong 20 character password, you can check out my password post for more info: <a href="https://www.ajulusthoughts.wordpress.com/the-key-to-uncrackable-passwords-the-best-password/" target="_blank" rel="noopener noreferrer">The Key to "Uncrackable" Passwords: The Best Password Guide</a>.
 
