@@ -107,7 +107,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 100
+post-preview-words: 96
 
 paginate: 10
 
@@ -175,6 +175,8 @@ social:
     url: "https://github.com/stephenajulu"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/stephenajulu/"
+  - title: "wordpress"
+    url: "https://ajulusthoughts.wordpress.com"
   - title: "rss"
     url: "/feed.xml"
 
