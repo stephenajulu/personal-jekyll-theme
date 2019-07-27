@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: The Best Laptop Buying Guide
-date: 2019-05-21 18:19
-author: ajulusthoughts
-comments: true
-categories: [12 to 14 inch, 8gb ram, apple mac os high sierra, best buyer guide, best laptop buyer guide, best laptop buying guide, best laptop specifications, chrome os, chromebook, core i5, core i7, core i9, full hd, graphics card, hd, hdd, laptop, laptop specifications, laptopmag, laptops, linux, linux laptop, macbook, recommended laptop specifications, ssd, TECH &amp; CYBERSECURITY, UNCATEGORIZED, windows 10, windows laptop]
+category: tutorials
+tags: [ 'laptop buying guide' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, welcome back. It's been long. I do apologies, i haven't posted any article in a while, but here i am. So without hesitation......</p>
