@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Investigating App interactions with Facebook on Android
-date: 2019-01-01 11:58
-author: ajulusthoughts
-comments: true
-categories: [TECH &amp; CYBERSECURITY]
+category: cybersecurity
+tags: [ 'app interactions with facebook', 'data collection' ]
 ---
 <!-- wp:paragraph -->
 <p>  <p class="MsoNormal">Privacy International has been investigating the proliferation of data tracking, brokerage and exchange between many tech companies, both as their primary business as well as value added services. <br>Facebook routinely tracks users, non-users and logged-out users outside its platform through Facebook Business Tools. App developers share data with Facebook through the Facebook Software Development Kit (SDK), a set of software development tools that help developers build apps for a specific operating system. Using the free and open source software tool called "mitmproxy", an interactive HTTPS proxy, Privacy International has analyzed the data that a number of Android apps transmit to Facebook through the Facebook SDK.</p></p>
