@@ -1,10 +1,9 @@
 ---
 layout: post
-title: The Apps Ajulu Uses On His Android Phone: Nokia 6 2017
-date: 2019-01-06 22:40
-author: ajulusthoughts
-comments: true
-categories: [1.0.0.1, 2.5D Curved Glass, 32gb, 4g, 4g/lte, 4gb, 64gb, About me, accessories, ajulu, alternatives, android, android 5.0, android 7.1.1, android alternatives, android hacking apps, anonymity, anonymous, anti-rootkit, antimalware, antivirus, budget friendly, camera phone, clothing, cloudfare dns, contact me, cryptography, dns, dos, DuckDuckGo.com, fdroid, fing, firefox, flagship, Gorilla Glass 3, hacker's keyboard, hacking with android, hmd, hmd global, TECH &amp; CYBERSECURITY]
+section-type: post
+title: The Apps Ajulu Uses On His Android Phone, Nokia 6 2017
+category: tech
+tags: [ 'tag1', 'tag2' ]
 ---
 <!-- wp:paragraph -->
 <p><br><br>Hey guys, how are you doing? It's Ajulu's Thoughts back again with another post: The Apps Ajulu Uses On His Android Phone(Nokia 6 2017)</p>
