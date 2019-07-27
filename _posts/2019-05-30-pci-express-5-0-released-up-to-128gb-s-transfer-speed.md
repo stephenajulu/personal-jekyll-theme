@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: PCI Express 5.0 Released: Up to 128GB/s Transfer Speed
+title: PCI Express 5.0 Released Up to 128GB/s Transfer Speed
 category: tech
 tags: [ 'pci express', 'pci express 5.0' ]
 ---
