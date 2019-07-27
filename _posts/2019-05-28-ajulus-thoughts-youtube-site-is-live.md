@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Ajulu's Thoughts YouTube Channel is Live
-date: 2019-05-28 19:12
-author: ajulusthoughts
-comments: true
-categories: [ajulu, Ajulu's Thoughts, channel, stephen ajulu, youtube]
+category: tech
+tags: [ 'youtube', 'ajulusthoughts' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, it's Steve Ajulu back again with an update. I have created a YouTube channel. Go check it out. I'll attach the link and screenshot down below.</p>
