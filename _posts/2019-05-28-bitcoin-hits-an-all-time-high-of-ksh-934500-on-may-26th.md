@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Bitcoin hits an all time high of ksh.934,500
-date: 2019-05-28 10:59
-author: ajulusthoughts
-comments: true
-categories: [8900, Ajulu's Thoughts, bitcoin, bitcoin all time high, blockchain, btc, coindesk, cryptocurrency, digital asset, eth, ethereum, may 2019, May 26th, TECH &amp; CYBERSECURITY, xrp]
+category: cryptocurrencies
+tags: [ 'bitcoin', 'cryptocurrency' ]
 ---
 <!-- wp:paragraph -->
 <p>Bitcoin (BTC), the most popular digital asset in the market, for the first time in 2019 reached a new high of above ksh.934,500 ($8900) on Sunday before retracting slightly, according to CoinDesk’s price data. The last time Bitcoin peaked that high was in May 2018.</p>
