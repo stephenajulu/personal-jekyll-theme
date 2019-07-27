@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Business Registration 101
-date: 2019-05-30 19:01
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, BUSINESS, business registration, business registration in kenya, company, enterprise, how to register a business, how to register a company, how to start a business, how to start a company, kenya, legal requirements, online business registration, registering a company in kenya, registration]
+category: business
+tags: [ 'business registration kenya', 'kenya' ]
 ---
 <!-- wp:heading -->
 <h2>How to Register a Company in Kenya – Registering a Company in Kenya –&nbsp;Companies Act 2015</h2>
