@@ -2,10 +2,8 @@
 layout: post
 section-type: post
 title: Invest in Yourself
-date: 2019-07-23 17:23
-author: stephenajulu
-comments: true
-categories: [lifestyle]
+categories: lifestyle
+tags: [ 'invest in yourself' ]
 ---
 
 <!-- wp:paragraph -->
