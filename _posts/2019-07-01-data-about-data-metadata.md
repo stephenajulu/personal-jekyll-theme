@@ -2,7 +2,9 @@
 layout: post
 section-type: post
 title: Data about data: Metadata
-categories: [work]
+categories: work
+Published: True
+tags: [ 'metadata' 'data' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, how are you doing?</p>
