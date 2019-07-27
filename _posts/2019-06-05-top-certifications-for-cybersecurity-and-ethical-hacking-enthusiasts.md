@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Top Certifications for Cybersecurity and Ethical Hacking Enthusiasts
-date: 2019-06-05 20:58
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, ceh, certifications, certifications for cybersecurity, certifications for ethical hacking, certified ethical hacker, certified ethical hacking, certified information systems security professional, comptia seccurity, computer hacking forensic investigator, cyberops, cybersecurity, cybersecurity certifications, cyberspace, ethical hacking, ethical hacking certifications, get certified, giac security essentials, global information assuarance certification penetration tester, hacker, hackers, hacking, it pro, Kali linux, learn new skills, linux, offensive security certified professional, parrotos, pen tester, penetration tester, TECH &amp; CYBERSECURITY, top it certifications, white hat hackers]
+category: cybersecurity
+tags: [ 'certifications', 'cybersecurity', 'ethical hacking' ]
 ---
 <!-- wp:heading {"level":4} -->
 <h4>Cybersecurity and Ethical Hacking Certifications:</h4>
