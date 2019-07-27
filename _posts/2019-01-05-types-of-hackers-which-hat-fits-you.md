@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Types of Hackers: Which Hat Fits You?
+title: Types of Hackers, Which Hat Fits You?
 category: hacking
 tags: [ 'hacker hats', 'types of hackers' ]
 ---
