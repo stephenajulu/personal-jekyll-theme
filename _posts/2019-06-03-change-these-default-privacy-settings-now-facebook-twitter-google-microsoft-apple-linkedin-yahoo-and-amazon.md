@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Change These Default Privacy Settings Now! Facebook, Twitter, Google, Microsoft, Apple, LinkedIn, Yahoo and Amazon
-date: 2019-06-03 16:44
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, privacy, privacy settings, social media, social media privacy, social media privacy settings, TECH &amp; CYBERSECURITY]
+category: tutorial
+tags: [ 'privacy settings', 'social media' ]
 ---
 <!-- wp:paragraph -->
 <p>From 2018 to the past few months of 2019, our personal data from 
