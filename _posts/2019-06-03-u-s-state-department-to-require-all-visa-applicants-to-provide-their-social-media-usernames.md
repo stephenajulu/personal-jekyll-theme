@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: U.S. State Department to Require All Visa Applicants to Provide Their Social Media Usernames
-date: 2019-06-03 15:57
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, LIFESTYLE, Social Media for VISA, TECH &amp; CYBERSECURITY, to start monitoring social media, U.S lack of privacy, U.S. State Department to Require All Visa Applicants to Provide Their Social Media Usernames, USA VISA]
+category: others
+tags: [ 'visa applicant' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">The U.S State Department has already started to put into action last  years proposal of requiring visa applicants to submit their social media  profiles alongside previous email addresses and phone numbers in the  now updated application process under Trump’s administration who had  called for extreme vetting of imigrants during his campaign and now that  he’sin office.</p>
