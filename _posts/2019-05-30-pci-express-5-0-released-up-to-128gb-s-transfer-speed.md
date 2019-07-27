@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: PCI Express 5.0 Released: Up to 128GB/s Transfer Speed
-date: 2019-05-30 15:02
-author: ajulusthoughts
-comments: true
-categories: [UNCATEGORIZED]
+category: tech
+tags: [ 'pci express', 'pci express 5.0' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">The
