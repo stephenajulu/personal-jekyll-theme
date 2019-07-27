@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Windows 10 Hotkeys and Shortcuts
-date: 2019-05-30 15:26
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, hotkey, hotkeys, hotkeys and shortcuts, keyboard, keyboard hotkey, keyboard shortcuts, shortcut and hotkeys, shortcuts, TECH &amp; CYBERSECURITY]
+category: tech
+tags: [ 'hotkeys', 'shortcuts' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Keyboard shortcuts are keys or combinations of keys that provide an alternative  way to do something that you’d typically do with a mouse.<a href="https://support.microsoft.com/"> </a></p>
