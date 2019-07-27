@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Basic Linux Commands
-date: 2019-05-30 18:04
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, command, command line, commands, linux, linux command line, linux commands, linux terminal, TECH &amp; CYBERSECURITY, terminal, terminal commands]
+category: tech
+tags: [ 'terminal', 'linux commands', 'linux terminal' ]
 ---
 <!-- wp:heading -->
 <h2><strong><span style="text-decoration:underline;">Terminal Navigation Commands</span></strong></h2>
