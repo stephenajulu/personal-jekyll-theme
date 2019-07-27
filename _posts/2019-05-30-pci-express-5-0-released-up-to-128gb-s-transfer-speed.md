@@ -5,6 +5,7 @@ title: PCI Express 5.0 Released: Up to 128GB/s Transfer Speed
 category: tech
 tags: [ 'pci express', 'pci express 5.0' ]
 ---
+
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">The
  PCI Special Interest Group has announced the next version of the 
