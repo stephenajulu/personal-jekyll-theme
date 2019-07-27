@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Using Android as a hacking platform: no root
-date: 2018-12-11 17:59
-author: ajulusthoughts
-comments: true
-categories: [1.1.1.1, android, android 5.0, android 7.1.1, android hacking apps, cryptography, dns, dos, ethical hacking, ethical hacking enthusiasts, fdroid, fing, finged, FOSS, hacker's keyboard, hacking, hacking apps, hacking phone, hacking with android, https, httrack, ip, IP address, Kali linux, landroid, linux, loic, MAC address, netBIOS, netcat, network, network manager, network tools, nmap, no root, open source, orbot, pentesting, pentesting with android, ping, port, prehack't, protonmail, protonvpn, ssh, sshd, sshdroid, ssl, subnet, tcp, TECH &amp; CYBERSECURITY, termux, testing, tor, traceroute, turn your android phone into a hacking device, using android for hacking, virtualbox, vmware, vpn, watchdogs, watchdogs hacking phone, weaponize your android phone, weaponizing android, weaponizing android devices, white hat, whois, Wi-Fi, wifi scanner, without root]
+category: hacking
+tags: [ 'android for hacking', 'android as a hacking platform' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, How are you doing? Today i would like to touch on a topic for white hats, green hats and penetration testing/ethical hacking enthusiasts out there. Hacking and Pentesting using your smartphone.<br></p>
