@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Types of Hackers: Which Hat Fits You?
-date: 2019-01-05 15:12
-author: ajulusthoughts
-comments: true
-categories: [anonymity, bad, benevolent, black hat, black hat hacker, blue hat, good, green hat, Grey hat, Grey hat hackers, hackers, hacking, hacktivist, hats, malevolent, malicious insider, passwords, privacy, red hat, script kiddies, security, TECH &amp; CYBERSECURITY, types of hackers, whistleblower, white hat, white hat hackers, white hat vs grey hat vs black hat vs script kiddie vs green hat vs red hat vs blue hat vs hacktivist]
+category: hacking
+tags: [ 'hacker hats', 'types of hackers' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, we are back again with another informative post. Which hat do you think fits you or that friend you know knows hacking?</p>
