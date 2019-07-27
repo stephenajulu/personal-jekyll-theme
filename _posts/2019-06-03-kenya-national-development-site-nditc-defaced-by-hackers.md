@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Kenya National Development Site (NDITC) Defaced By Hackers
-date: 2019-06-03 15:41
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, defaced, defaced site, ifmis portal hacked, kenya, kenya cyberinsecurity, Kenya National Development Site (NDITC) Defaced By Hackers After IFMIS Intrusion, public services portal hacked, TECH &amp; CYBERSECURITY]
+category: news
+tags: [ 'website defaced', 'kenya government website defaced' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">The National Development Implementation Technical Committee’s (NDITC)  online page has been defaced by the same hacker group (allegedly) that  just <a href="https://ajulusthoughts.wordpress.com/2019/06/03/public-services-portal-ifmis-hacked/">intruded IFMIS website</a>.  This makes it the second government-related website to see attacks from  online criminals who take advantage of security lapses to toy with  sites.</p>
