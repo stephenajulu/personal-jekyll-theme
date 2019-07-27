@@ -1,11 +1,13 @@
 ---
 layout: post
+section-type: post
 title: Invest in Yourself
 date: 2019-07-23 17:23
 author: ajulusthoughts
 comments: true
-categories: [advice, be yourself, career, develop your skills, invest, invest in yourself, LIFESTYLE]
+categories: [LIFESTYLE]
 ---
+
 <!-- wp:paragraph -->
 <p>Hey guys, what's up? It's your guy, Stephen Ajulu. And today's topic is Investing in yourself, now i am in no way a certified advise-man, but this is something many self made recognize and encourage. This is what Warren Buffet said,</p>
 <!-- /wp:paragraph -->
