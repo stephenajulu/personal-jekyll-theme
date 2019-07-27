@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Tech Terms You Should Know
-date: 2019-05-29 17:07
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, api, back end, bit, booting, broadband, browser, Cache, cad, cyber crime, cybercrime, data center, ddos, dns, domain name service, dos, email, firewall, gif, ide, ip, IP address, isp, machine learning, malware, nfc, open source, pdf, protocol, saas, sdk, search engine, SEO, server, tech, TECH &amp; CYBERSECURITY, tech savvy, tech terms, technical, technology, url, viral, virtual machine, virtual machines, virtual private network, virtualization, vm, vpn, WiFi, ZIP]
+category: tech
+tags: [ 'tech terms', 'tech dictionary', 'terminologies' ]
 ---
 <!-- wp:paragraph -->
 <p>Bellow are some common tech terms and their meanings. For reference, bookmark this article. More coming soon.</p>
