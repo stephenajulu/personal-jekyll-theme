@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Detect Rootkits In Kali Linux
-date: 2019-05-29 22:22
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, chrootkit, kali, Kali linux, linux, mr. robot, rkhunter, rootkit, rootkits, TECH &amp; CYBERSECURITY, trojan, virus, viruses, worm, worms]
+category: cybersecurity
+tags: [ 'rootkits', 'kali linux' ]
 ---
 <!-- wp:heading -->
 <h2>What is a Rootkit?</h2>
