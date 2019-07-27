@@ -2,8 +2,7 @@
 layout: post
 section-type: post
 title: Data about data: Metadata
-categories: work
-tags: [data about data, exif, geotag, location, metadata, UNCATEGORIZED]
+categories: [work]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, how are you doing?</p>
