@@ -1,10 +1,9 @@
 ---
 layout: post
-title: How to Turn an Android Phone into a Hacking Device Without Root
-date: 2019-06-09 15:28
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, android, android hacking apps, black hat hacker, certified ethical hacker, ethical hackers, ethical hacking, ethical hacking enthusiasts, Grey hat hackers, hacked, hacker, hacker's keyboard, hackers, hacking, hacking apps, hacking apps for android, hacking phone, hacking with android, how to turn an android phone into a hacking device without root, pentesting with android, TECH &amp; CYBERSECURITY, turn your android phone into a hacking device, using android for hacking, watchdogs hacking phone, weaponize your android phone, weaponizing android, weaponizing android devices, white hat hackers, white hat vs grey hat vs black hat vs script kiddie vs green hat vs red hat vs blue hat vs hacktivist]
+section-type: post
+title: How to turn android into a hacking device
+category: hacking
+tags: [ 'haccking android apps', 'android hacking' ]
 ---
 <!-- wp:paragraph -->
 <p> Hey guys, how are you? I am back again with another post. You can also check out my previous post on "<a href="https://ajulusthoughts.wordpress.com/2018/12/11/using-android-as-a-hacking-platform-no-root/">Using Android as a Hacking Platform: No Root</a>". It has hit! With more than 23 hits each day since i posted it. So far it has gained 1,278 views.</p>
