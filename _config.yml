@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I.T, Cybersecurity Expert and Ethical Hacker"
   - text: "Front End Web Developer and Graphics/UI/UX Designer"
 
-me-img: "/img/me.jpg"
+#  me-img: "/img/me.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -78,7 +78,7 @@ me-img: "/img/me.jpg"
 # You can create the email hash by using an online tool like 'http://www.md5hashgenerator.com/'
 # just enter your email and it will generate the hash.
 
-# me-img: "https://www.gravatar.com/avatar/431cde6822aeabd6bdec99eff08b37b1?s=500"
+me-img: "https://www.gravatar.com/avatar/431cde6822aeabd6bdec99eff08b37b1?s=500"
 
 ##############################
 # Color the browser elements #
