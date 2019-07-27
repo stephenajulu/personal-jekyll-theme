@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: How to Withdraw Money from PayPal to M-Pesa in Kenya: Safaricom and PayPal Partnership
+title: How to Withdraw Money from PayPal to M-Pesa in Kenya Safaricom and PayPal Partnership
 category: tutorials
 tags: [ 'withdraw money from paypal to mpesa', 'paypal kenya' ]
 ---
