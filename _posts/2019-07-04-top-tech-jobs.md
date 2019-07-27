@@ -5,14 +5,6 @@ title: Top Tech Jobs
 categories: work
 tags: tech jobs
 ---
----
-layout: post
-section-type: post
-title: Invest in Yourself
-categories: lifestyle
-Published: True
-tags: [ 'invest in yourself' ]
----
 <!-- wp:heading -->
 <h2><strong>1.Artificial Intelligence</strong></h2>
 <!-- /wp:heading -->
