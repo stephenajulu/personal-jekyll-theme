@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Data about data: Metadata
-date: 2019-07-01 08:08
-author: ajulusthoughts
-comments: true
-categories: [data about data, exif, geotag, location, metadata, UNCATEGORIZED]
+categories: work
+tags: [data about data, exif, geotag, location, metadata, UNCATEGORIZED]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, how are you doing?</p>
