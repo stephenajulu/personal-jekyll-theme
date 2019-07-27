@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Laptop Specification For Hackers
-date: 2019-06-06 19:17
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, ethical hacking, ethical hacking enthusiasts, hacker, hackers, hacking, laptop, laptop specifications, laptop specifications for hackers, laptops, TECH &amp; CYBERSECURITY, white hat hackers]
+section-type: post
+title: Laptop Specifications For Hackers
+category: hacking
+tags: [ 'laptop', 'hackers' ]
 ---
 <!-- wp:paragraph -->
 <p>
