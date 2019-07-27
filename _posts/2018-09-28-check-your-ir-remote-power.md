@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Check Your IR Remote Power
-date: 2018-09-28 21:15
-author: ajulusthoughts
-comments: true
-categories: [battery, camera, infrared, infrared sensor, ir, remote, remote sensor, smartphones, TECH &amp; CYBERSECURITY]
+category: tips
+tags: [ 'check your IR remote power', 'IR and Camera' ]
 ---
 NB: <strong>What is Infrared</strong>: <b>Infrared radiation</b> (IR) is <a title="Electromagnetic radiation" href="https://en.wikipedia.org/wiki/Electromagnetic_radiation">electromagnetic radiation</a> (EMR) with longer <a title="Wavelength" href="https://en.wikipedia.org/wiki/Wavelength">wavelengths</a> than those of <a title="Light" href="https://en.wikipedia.org/wiki/Light">visible light</a>, and is therefore generally invisible to the human eye (although IR at wavelengths up to 1050 nm from specially pulsed lasers can be seen by humans under certain conditions <sup id="cite_ref-Sliney1976_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/Infrared#cite_note-Sliney1976-1">[1]</a></sup><sup id="cite_ref-LynchLivingston2001_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Infrared#cite_note-LynchLivingston2001-2">[2]</a></sup><sup id="cite_ref-Dash2009_3-0" class="reference"><a href="https://en.wikipedia.org/wiki/Infrared#cite_note-Dash2009-3">[3]</a></sup><sup id="cite_ref-Saidman1933_4-0" class="reference"><a href="https://en.wikipedia.org/wiki/Infrared#cite_note-Saidman1933-4">[4]</a></sup>). It is sometimes called <b>infrared light</b>. IR wavelengths extend from the nominal <a title="Red" href="https://en.wikipedia.org/wiki/Red">red</a> edge of the <a title="Visible spectrum" href="https://en.wikipedia.org/wiki/Visible_spectrum">visible spectrum</a> at 700 <a class="mw-redirect" title="Nanometer" href="https://en.wikipedia.org/wiki/Nanometer">nanometers</a> (<a class="mw-redirect" title="Frequency spectrum" href="https://en.wikipedia.org/wiki/Frequency_spectrum">frequency</a> 430 <a class="mw-redirect" title="Terahertz (unit)" href="https://en.wikipedia.org/wiki/Terahertz_(unit)">THz</a>), to 1 <a class="mw-redirect" title="Millimeter" href="https://en.wikipedia.org/wiki/Millimeter">millimeter</a> (300 <a class="mw-redirect" title="GHz" href="https://en.wikipedia.org/wiki/GHz">GHz</a>)<sup id="cite_ref-5" class="reference"><a href="https://en.wikipedia.org/wiki/Infrared#cite_note-5">[5]</a></sup> Most of the <a title="Thermal radiation" href="https://en.wikipedia.org/wiki/Thermal_radiation">thermal radiation</a> emitted by objects near room temperature is infrared.
 
