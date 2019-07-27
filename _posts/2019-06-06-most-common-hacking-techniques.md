@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Most Common Hacking Techniques
-date: 2019-06-06 20:35
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, bait and switch, black hat, click jacking, common hacking techniques, cookie theft, ddos, denial of service, dos, eavesdropping, fake wap, Grey hat hackers, hacked, hacker, hackers, hacking, hacking techniques, keylogger, keylogging, malware, most common hacking techniques, phishing, TECH &amp; CYBERSECURITY, trojan, virus, waterhole, white hat vs grey hat vs black hat vs script kiddie vs green hat vs red hat vs blue hat vs hacktivist]
+category: Tech
+tags: [ 'common hacking techniques', 'hacking' ]
 ---
 <!-- wp:paragraph -->
 <p>What Are Top 10 Common Hacking Techniques?</p>
