@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Official Tor Browser Launched on The Play Store
-date: 2019-05-28 10:10
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, anonymity, anonymous, browser, encrypt, encrypted, official tor browser, onion, onion router, privacy, security, TECH &amp; CYBERSECURITY, the onion router, tor, tor browser, tor browser for android]
+category: cybersecurity
+tags: [ 'tor browser', 'android' ]
 ---
 <!-- wp:heading {"level":4,"align":"center"} -->
 <h4 style="text-align:center;"><strong>First stable version of the Tor browser for Android IS now available on Google Play Store</strong></h4>
