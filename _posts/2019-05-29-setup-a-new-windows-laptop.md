@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Setup a New Windows Laptop
-date: 2019-05-29 14:32
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, laptop, laptop setup, laptop specifications, new laptop, ninite, setup a windows laptop, TECH &amp; CYBERSECURITY]
+category: tech
+tags: [ setup a laptop', 'laptop' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, it's Steve back again with another post. Now this post is a follow up from the laptop buying guide post. if you didn't read that, go check it out here: <a href="https://ajulusthoughts.wordpress.com/2019/05/21/the-best-laptop-buying-guide/">The Best Laptop Buying Guide</a>. </p>
