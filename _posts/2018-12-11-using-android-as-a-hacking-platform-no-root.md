@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Using Android as a hacking platform: no root
+title: Using Android as a hacking platform, no root
 category: hacking
 tags: [ 'android for hacking', 'android as a hacking platform' ]
 ---
