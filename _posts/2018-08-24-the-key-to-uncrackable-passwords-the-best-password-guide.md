@@ -1,10 +1,9 @@
 ---
 layout: post
-title: The Key To "Uncrackable" Passwords: The Best Password Guide!
-date: 2018-08-24 20:02
-author: ajulusthoughts
-comments: true
-categories: [password, password length, passwords, recommended password length, strong passwords, TECH &amp; CYBERSECURITY, uncrackable, unhackable]
+section-type: post
+title: The Key To "Uncrackable" Passwords, The Best Password Guide!
+category: cybersecurity
+tags: [ 'uncrackable password guide', 'password guide' ]
 ---
 Hey guys, welcome back! I do apologize, as i have not posted in months but here i am, so <i>"a luta continua"</i>. Did i use that right(i don't really know its meaning, so kindly comment it down below)
 
