@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Kenya's Cyber Insecurity
-date: 2019-05-27 16:46
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, anonymous, billions, black hat, black hat hacker, crime, cyber, cyber-insecurity, cybercrime, cyberinsecurity, cyberspace, ddos, defaced, dos, encrypt, ethical hackers, ethical hacking, hacker, hackers, hacking, insecurity, internet, kenya, kenya cyberinsecurity, Kenya National Development Site (NDITC) Defaced By Hackers After IFMIS Intrusion, Kenyan Government Websites Defaced, millions, phishing, privacy, social engineering, TECH &amp; CYBERSECURITY, unauthorized, wannacrypt, white hat hackers, white hat vs grey hat vs black hat vs script kiddie vs green hat vs red hat vs blue hat vs hacktivist]
+category: cybersecurity
+tags: [ 'kenya cyber insecurity', 'insecurity' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Hey guys, i am back again with another article, and today i want to touch a bit on Kenya's Cybersecurity issue. Most of us have heard the NEWS, Kenya has a major cybersecurity issue. </p>
