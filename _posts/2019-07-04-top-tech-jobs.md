@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Top Tech Jobs
-categories: work
+category: work
 tags: tech jobs
 ---
 <!-- wp:heading -->
