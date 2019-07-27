@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Invest in Yourself
 categories: lifestyle
-Publihed: True
+Published: True
 tags: [ 'invest in yourself' ]
 ---
 
