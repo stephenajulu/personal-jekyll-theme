@@ -1,11 +1,11 @@
 ---
 layout: post
+section-type: post
 title: Xiaomi's Under-Display Camera
-date: 2019-06-05 15:47
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, camera, front camera, hidden camera, in display camera, infinity u, infinity v, invisible camera, new trends, notch, one punch hole, one punch hole camare, retractable camera, sliding camera, TECH &amp; CYBERSECURITY, technology news, technology trends, under display camera, under display invisible camera, under-display, under-display front camera, xiaomi]
+category: tech
+tags: [ 'xiaomi', 'under-display camera' ]
 ---
+
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">We all know very well 
 that since the smartphone screens began to grow, to expand and eliminate
