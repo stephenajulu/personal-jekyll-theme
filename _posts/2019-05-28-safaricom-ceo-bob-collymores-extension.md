@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Safaricom CEO Bob Collymore's Extension
-date: 2019-05-28 07:47
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, TECH &amp; CYBERSECURITY]
+category: news
+tags: [ 'bob collymore', 'safaricom' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Bob Collymore has announced he will be staying on as CEO of Safaricom  for one more year (12-15 months) as his contract has been extended.  This is part compensation for the 9 month period of time he was out on  medical leave. So he will remain the CEO up to 2020.</p>
