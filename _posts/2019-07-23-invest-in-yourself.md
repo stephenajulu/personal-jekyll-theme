@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Invest in Yourself
-categories: lifestyle
+category: lifestyle
 tags: [ 'invest in yourself' ]
 ---
 
