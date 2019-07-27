@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: How To Obtain Certificates Needed To Successfully Apply For The Advertised Jobs In Kenya
+title: How To Obtain Certificates Needed To Apply For Jobs In Kenya
 category: work
 tags: [ 'certificates needed for a successful application', 'job application']
 ---
