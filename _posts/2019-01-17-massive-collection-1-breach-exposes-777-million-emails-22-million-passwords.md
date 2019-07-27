@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Massive ‘Collection #1’ Breach Exposes 777 Million Emails, 22 Million Passwords
 category: cybersecurity, news
-tags: [ 'tag1', 'tag2' ]
+tags: [ 'breach', 'insecurity' ]
 ---
 Hey guys, how are y'all doing? Another massive data dump has just occurred. And as the title says it's big and serious. I'll post links to help you check out if your passwords or emails are part of the dump. My advice, whether or not you find your data, go change your password to a strong 20 character password, you can check out my password post for more info: <a href="https://www.ajulusthoughts.wordpress.com/the-key-to-uncrackable-passwords-the-best-password/" target="_blank" rel="noopener noreferrer">The Key to "Uncrackable" Passwords: The Best Password Guide</a>.
 
