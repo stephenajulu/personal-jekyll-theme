@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: Android Hacking Apps: Root and No Root
-date: 2019-05-30 14:50
-author: ajulusthoughts
-comments: true
-categories: [Ajulu's Thoughts, android hacking apps, ethical hacking, ethical hacking enthusiasts, hacker, hackers, hacking, hacking apps, hacking apps for android, hacking phone, hacking with android, no root, non root, root, rooted android, TECH &amp; CYBERSECURITY, turn your android phone into a hacking device, using android for hacking, watchdogs hacking phone, white hat hackers]
+category: hacking
+tags: [ 'android hacking apps', 'hacking apps for android' ]
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Hey guys, how are you? Today I'll share the apps used for hacking on android. NB: Some of these apps could be bundled with viruses, so research or install them in a separate device, one that you will only use for pentesting legally. For No Root Users check this post: <a href="https://ajulusthoughts.wordpress.com/2018/12/11/using-android-as-a-hacking-platform-no-root/?wref=tp">https://ajulusthoughts.wordpress.com/2018/12/11/using-android-as-a-hacking-platform-no-root/?wref=tp</a></p>
