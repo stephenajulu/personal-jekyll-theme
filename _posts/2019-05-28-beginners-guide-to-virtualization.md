@@ -1,10 +1,9 @@
 ---
 layout: post
+section-type: post
 title: The Beginner's Guide to Virtualization
-date: 2019-05-28 17:13
-author: ajulusthoughts
-comments: true
-categories: [compartmentalization, elementary os, FOSS, Kali linux, TECH &amp; CYBERSECURITY, the art of virtualization, virtual machine, virtual machines, virtualbox, virtualization, vmware, vmware player, Vmware Workstation]
+category: tech
+tags: [ 'virtualization', 'vmware' ]
 ---
 <!-- wp:paragraph -->
 <p>Hey guys, how are y'all doing? It's a good day isn't it? Today we will touch on virtualization and Virtual machines. Have you ever wanted to shift from Windows to Linux but you were afraid of not liking it? Are an aspiring white hat(ethical hacker) looking for a way to test your skills? Or do you want to to start pentesting using kali linux but don't want to dual boot or replace your current operating system? Are you paranoid about your security and want to build containers of your personality to prevent being tracked or hacked? This is where virtualization comes in. To borrow from Wikipedia the definition of Virtualization.</p>
