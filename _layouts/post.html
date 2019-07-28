@@ -33,7 +33,12 @@
               {% endfor %}
             </small>
           </h4>
-
+          
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+          
           <section class="text-justify">
             {{ page.content | markdownify }}
           </section>
