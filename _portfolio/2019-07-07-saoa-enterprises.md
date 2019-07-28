@@ -1,11 +1,6 @@
 ---
-layout: jetpack-portfolio
+layout: post
 title: SAOA Enterprises
-date: 2019-07-07 13:38
-author: ajulusthoughts
-comments: true
-categories: [SAOA Enterprises, web design, web development, Web Development and Design, website]
----
 <!-- wp:paragraph -->
 <p>This is an incomplete website. I am currently still working on it. It is my new company's website. It however still showcases my skills in Web Development and Design. Depending with the clients requirement and specs, i use either WordPress or code from scratch. Since am still building this site, you can find it here: <a href="https://saoaenterprises.wordpress.com"><strong>https://saoaenterprises.wordpress.com</strong></a>.</p>
 <!-- /wp:paragraph -->
