@@ -144,6 +144,15 @@ events:
 
 timeline-img: "/img/timeline/default.png"
 
+#############
+# Portfolio #
+#############
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 ###########
 # Contact #
 ###########
