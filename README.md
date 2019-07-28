@@ -1,4 +1,4 @@
-# Stephen Ajulu Personal Portfoilio and CV Website
+# Stephen Ajulu's Personal Portfoilio and CV Website
 ## I am using { Personal } Jekyll Theme
 
 { Personal } is a free responsive Jekyll theme, about you :wink:
