@@ -134,11 +134,26 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "November 2016 - Today"
-    description: "Created a blog and started blogging!"
+    date: "January 2019 - Ongoing"
+    description: "Bachelor of Science in Information Technology, Mount Kenya University"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "March 2018 - May 2018"
+    description: "Certified Ethical Hacking v9.0, Institute of Software Technologies"
+  - image: "/img/timeline/spidertocat.png"
+    date: "January 2017 - November 2017"
+    description: "Diploma in Information Technology, St. Paul's University"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "January 2018 - August 2018"
+    description: "Certificate, Business and Information Technology v9.0, St. Paul's University"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "March 2016 - April 2016"
+    description: "Certificate, Photoshop and Corel Draw, Epren College of Professional Studies"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "April 2016 - April 2016"
+    description: "Online Certification, Fundamental System Troubleshooting, Cybrary.it"
+  - image: "/img/timeline/spidertocat.png"
+    date: "November 201 - Ongoing"
+    description: "Started my blog and continued creating content"
 
 # First image of the Timeline
 
