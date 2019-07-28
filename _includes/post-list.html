@@ -6,9 +6,9 @@
   <small>.
     <a class="category" href="{{site.baseurl}}/categories/{{ post.category | downcase }}.html">
       {{ post.category }}
-    </a>
+    </a>.
+    {% include read_time.html %}
   .</small>
-  .{% include read_time.html %}.
   <br class="visible-xs-block">
   <a href="{{site.baseurl}}{{post.url}}">
     <strong>{{ post.title }}</strong>
