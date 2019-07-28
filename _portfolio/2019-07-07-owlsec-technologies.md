@@ -1,10 +1,6 @@
 ---
-layout: jetpack-portfolio
+layout: post
 title: OwlSec Technologies
-date: 2019-07-07 12:59
-author: ajulusthoughts
-comments: true
-categories: []
 ---
 <!-- wp:paragraph -->
 <p>A client approached me seeking a good website that will bring int traffic through blogging but also help customers get in touch with them. </p>
