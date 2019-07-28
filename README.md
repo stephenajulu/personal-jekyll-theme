@@ -9,7 +9,7 @@ Ajulu's Personal Website Jekyll Theme is a free responsive Jekyll theme, forked 
 
 Soon to add a work/portfoilo and education section.
 
-I'll soon upload a more professional readme
+I'll soon upload a more professional readme and change my domain name to something more professional: stephenajulu.com
 
 Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 
