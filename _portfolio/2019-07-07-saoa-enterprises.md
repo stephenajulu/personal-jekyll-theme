@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SAOA Enterprises
+---
 <!-- wp:paragraph -->
 <p>This is an incomplete website. I am currently still working on it. It however still showcases my skills in Web Development and Design. Depending with the clients requirement and specs, i use either WordPress, Wix, Squarespace, Weebly, static site builders or code from scratch. Since am still building this site, you can find it here: <a href="https://saoaenterprises.wordpress.com"><strong>https://saoaenterprises.wordpress.com</strong></a>.</p>
 <!-- /wp:paragraph -->
