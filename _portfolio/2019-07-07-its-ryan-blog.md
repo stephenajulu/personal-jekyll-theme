@@ -1,5 +1,5 @@
 ---
-layout: jetpack-portfolio
+layout: post
 title: It's Ryan Blog
 ---
 <!-- wp:paragraph -->
