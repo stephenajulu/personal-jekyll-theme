@@ -4,6 +4,7 @@ title: It's Ryan Blog
 ---
 <!-- wp:paragraph -->
 <p>I deal with both large corps, individual websites and blogs. This is a wordpress site. I designed the layout and made sure it fit according to his specs. At the end of the day he was happy, so was i.</p>
+<p>You can go check it out <a href="itisryan.wordpress.com">here</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"full","id":1959} -->
