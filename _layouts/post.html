@@ -33,8 +33,9 @@
               {% for tag in page.tags %}
                 <a class="tag" href="{{site.baseurl}}/tags/{{tag | downcase}}.html">#{{ tag }}</a>
               {% endfor %}
-              {% include read_time.html %}
+              
             </small>
+            {% include read_time.html %}
           </h4>
 
           <section class="text-justify">
