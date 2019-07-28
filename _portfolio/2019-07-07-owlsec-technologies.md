@@ -3,11 +3,12 @@ layout: post
 title: OwlSec Technologies
 ---
 <!-- wp:paragraph -->
-<p>A client approached me seeking a good website that will bring int traffic through blogging but also help customers get in touch with them. </p>
+<p>A client approached me seeking a good website that will bring in traffic through blogging but also help customers get in touch with them and view their services and pricing. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>So far so good, the website is 97% complete. Here are the pictures:</p>
+<p>So far so good, the website is 87% complete. Here are the pictures:</p>
+<p>Go check it out <a href="https://owlsectechnologies.wordpress.com">here</a>
 <!-- /wp:paragraph -->
 
 <!-- wp:jetpack/slideshow {"align":"full","autoplay":true,"delay":5,"ids":[1949,1942,1948,1931,1944,1945,1932,1933,1947,1930,1934],"effect":"fade"} -->
