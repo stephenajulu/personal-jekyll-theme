@@ -189,7 +189,6 @@ collections:
 ###########
 
 email: "alunje73@pm.me"
-phone: "+254740128010"
 
 ################
 # Author Blurb #
@@ -267,4 +266,3 @@ gems:
   - jekyll-paginate
   - jemoji
   - jekyll-seo-tag
-  - jekyll-press'
