@@ -1,4 +1,4 @@
-# Stephen Ajulu's Personal Portfoilio and CV Website <img src="https://stephenajulu.github.io/img/favicon16.png">
+# <img src="https://stephenajulu.github.io/img/favicon16.png"> Stephen Ajulu's Personal Portfoilio and CV Website
 ## I am using { Personal } Jekyll Theme
 
 { Personal } is a free responsive Jekyll theme, about you :wink:
