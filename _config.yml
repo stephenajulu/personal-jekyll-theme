@@ -230,7 +230,6 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
-  Portfolio: 'latest_portfolio'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
