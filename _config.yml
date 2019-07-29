@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "favicon16.png"
+black-favicon: "/img/favicon16.ico"
 
 background-img: "/img/bg1.jpg"
 
@@ -99,7 +99,7 @@ icon-36p: "/img/web-app/favicon36.png"
 icon-48p: "/img/web-app/favicon48.png"
 icon-72p: "/img/web-app/favicon72.png"
 icon-96p: "/img/web-app/favicon96.png"
-icon-144p: "/img/web-app/favicom144.png"
+icon-144p: "/img/web-app/favicon144.png"
 icon-192p: "/img/web-app/favicon192.png"
 
 ########
