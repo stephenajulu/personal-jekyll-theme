@@ -133,10 +133,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/mku.png"
+  - image: "/img/mku.png"
     date: "January 2019 - Ongoing"
     description: "Bachelor of Science in Information Technology, Mount Kenya University"
-  - image: "/img/timeline/ist.png"
+  - image: "/img/ist.png"
     date: "March 2018 - May 2018"
     description: "Certified Ethical Hacking v9.0, Institute of Software Technologies"
   - image: "/img/timeline/spu.jpg"
