@@ -220,6 +220,8 @@ social:
     url: "https://ajulusthoughts.wordpress.com"
   - title: "rss"
     url: "/feed.xml"
+  - title: "wybemf"
+    url: "https://wybemf.com/stephenajulu"
 
 ############
 # 404 page #
