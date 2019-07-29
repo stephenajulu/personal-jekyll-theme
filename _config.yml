@@ -133,10 +133,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/mku.png"
+  - image: "/img/timeline/mku.png"
     date: "January 2019 - Ongoing"
     description: "Bachelor of Science in Information Technology, Mount Kenya University"
-  - image: "/img/ist.png"
+  - image: "/img/timeline/ist.png"
     date: "March 2018 - May 2018"
     description: "Certified Ethical Hacking v9.0, Institute of Software Technologies"
   - image: "/img/timeline/spu.jpg"
@@ -151,12 +151,12 @@ events:
   - image: "/img/timeline/cybrary.png"
     date: "April 2016 - April 2016"
     description: "Online Certification, Fundamental System Troubleshooting, Cybrary.it"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/cropped-a.jpg"
     date: "November 2016 - Ongoing"
     description: "Started my blog and continued creating content"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/cropped-a.jpg"
     date: "May 2016 - Ongoing"
-    description: "Director, OwlSec/Ajulu Technologies"
+    description: "Director, Ajulu Technologies which is now OwlSec Technologies"
   - image: "/img/timeline/mdp.png"
     date: "November 2016 - December 2016"
     description: "Secretariat & Tech Support, Ministry of Planning and Devolution, Kenya, Laico Grand Regency"
