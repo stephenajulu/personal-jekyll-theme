@@ -200,7 +200,7 @@ phone: "+254740128010"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Stephen Ajulu is an awesome person. He lives in Kenya, where he is currently studying a bachelor of science in Information Technology. He is self employed. Working as a front end web deveoper, I.T consultant, graphic designer and ethical hacker. In his spare time, Stephen likes to watch movies, play video games, make websites, practise hacking and research."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/me.jpg"
 
 ##################
 # Social Buttons #
