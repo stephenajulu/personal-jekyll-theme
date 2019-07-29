@@ -143,7 +143,7 @@ events:
     date: "January 2017 - November 2017"
     description: "Diploma in Information Technology, St. Paul's University"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "January 2018 - August 2018"
+    date: "January 2016 - August 2016"
     description: "Certificate, Business and Information Technology v9.0, St. Paul's University"
   - image: "/img/timeline/baracktocat.jpg"
     date: "March 2016 - April 2016"
@@ -152,8 +152,23 @@ events:
     date: "April 2016 - April 2016"
     description: "Online Certification, Fundamental System Troubleshooting, Cybrary.it"
   - image: "/img/timeline/spidertocat.png"
-    date: "November 201 - Ongoing"
+    date: "November 2016 - Ongoing"
     description: "Started my blog and continued creating content"
+  - image: "/img/timeline/spidertocat.png"
+    date: "May 2016 - Ongoing"
+    description: "Director, OwlSec/Ajulu Technologies"
+  - image: "/img/timeline/spidertocat.png"
+    date: "November 2016 - December 2016"
+    description: "Secretariat & Tech Support, Ministry of Planning and Devolution, Kenya, Laico Grand Regency"
+  - image: "/img/timeline/spidertocat.png"
+    date: "November 2015 - December 2015"
+    description: "Secretariat, Ministry of Planning and Devolution, Kenya, Laico Grand Regency"
+  - image: "/img/timeline/spidertocat.png"
+    date: "March 2015 - April 2015"
+    description: "French Level 1, Epren College of Professional Studies"
+   
+     
+
 
 # First image of the Timeline
 
