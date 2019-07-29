@@ -172,7 +172,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/me.png"
+timeline-img: "/img/timeline/me.png"
 
 #############
 # Portfolio #
