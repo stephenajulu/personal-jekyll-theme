@@ -43,3 +43,11 @@ Among Others
 
 
 <h4 align="center"><a href="mailto:alunje73@gmail.com">Hire Me </a> or <a href="https://drive.google.com/file/d/1jYrPFdLm4Fw0Rc_mfBmhIe7UY4iLZIFA/view?usp=sharing"> Resume</a></h4>
+
+
+
+{% for portfolio in site.portfolio %}
+  <h2>
+    {{ portfolio.title }}
+  </h2>
+{% endfor %}
