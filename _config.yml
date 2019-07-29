@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Stephen Ajulu"
 title: "{ Stephen Odero Ajulu }"
-description: "Stephen Ajulu is an I.T Expert, Frond End Web Developer, Graphics/UI/UX Designer, Ethical Hacker/Pentester and a Cybersecurity Consultant. Here he showcases his skills, knowledge, education and work/portfolio"
-keywords: "stephen, ajulu, personal, stephen odero ajulu otieno, stephenajulu, jekyll, stephen ajulu, portfolio, odero, stephen odero ajulu, tech, cybersecurity, ajulu's thought's, blog, website, github pages, stephenajulu.github.io"
+description: "Stephen Ajulu is a Student, I.T Expert, Frond End Web Developer, Graphics/UI/UX Designer, Ethical Hacker/Pentester and a Cybersecurity Consultant. Here he showcases his skills, knowledge, education and work/portfolio"
+keywords: "stephen, ajulu, personal, stephen odero ajulu otieno, stephenajulu, jekyll, stephen ajulu, portfolio, odero, stephen odero ajulu, tech, cybersecurity, ajulu's thought's, blog, website, github pages, stephenajulu.github.io, web developer, graphic designer, I.T expert"
 favicon: "/img/favicon.ico"
 
 ################
