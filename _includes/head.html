@@ -1,6 +1,4 @@
-
 <!-- HEAD Start -->
-
 <head>
   {% include force-https.html %}
   <meta charset="utf-8">
@@ -11,19 +9,15 @@
   <meta name="keywords" content="{{site.keywords}}">
   <link rel="canonical" href="{{page.url | replace:'index.html','' | prepend: site.baseurl}}">
   <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
-  
   <!-- Jekyll SEO Plugin -->
 {% seo %}
-  
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-
   <!-- Custom CSS -->
   <link href="{{site.baseurl}}/css/grayscale.css" rel="stylesheet">
   {% if page.section-type == "index" %}
   <link href="{{site.baseurl}}/css/timeline.css" rel="stylesheet">
   {% endif %}
-
   <!-- Custom Fonts -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -38,19 +32,13 @@
   {% if site.favicon %}
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}{{site.favicon}}">
   {% endif %}
-
   {% if page.url == "/404.html" | prepend: {{site.baseurl}} %}
     <meta http-equiv="refresh" content="20; url={{site.baseurl}}/">
   {% endif %}
-    
   {% include google_analytics.html %}
-
   {% include web-app.html %}
-
   {% include color-browser.html %}
-
   {% include syntax-highlight.html %}
-    
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132349593-3"></script>
 <script>
@@ -60,8 +48,5 @@
 
   gtag('config', 'UA-132349593-3');
 </script>
-
-
 </head>
-
 <!-- HEAD End -->
