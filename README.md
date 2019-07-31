@@ -16,8 +16,3 @@ Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 You can watch it in action [here](https://stephenajulu.github.io)!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
-
-<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
-
-<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
-
