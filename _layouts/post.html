@@ -1,13 +1,9 @@
-
 <!-- Post Layout Start -->
-
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
-  
 
   {% include head.html %}
   
-
   <body>
 
     {% include navigation.html %}
@@ -42,8 +38,6 @@
             {{ page.content | markdownify }}
           </section>
           <br>
-          {% include twitter_plug.html %}
-<br>
           
     <div class="Previous-next">
   {% if page.previous.url %}
@@ -60,7 +54,6 @@
           {% if jekyll.environment == "production" %}
             {% include comments.html %}
           {% endif %}
-
 
           <hr />
 
@@ -80,8 +73,6 @@
 
     {% include js.html %}
 
-    
   </body>
 </html>
-
 <!-- Post Layout End -->
