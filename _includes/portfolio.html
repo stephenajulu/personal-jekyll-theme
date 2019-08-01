@@ -1,16 +1,19 @@
-<h2> Portfolio</h2>
-<div class="row">
+<a href="#portfolio"><h2 align="center"> Portfolio</h2></a>
+<div class="portfolio">
   {% for portfolio in site.portfolio %}
     <a href="{{ portfolio.url | prepend: site.baseurl }}">
-      <div class="col-xs-4 col-sm-4 col-md-4">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-              {{ portfolio.title }}
-          </div>
-          <div class="panel-body">
-            {{ portfolio.excerpt }}
-          </div>
-        </div>
+       <table style="width:100%">
+  <tr>
+    <th>IT IS RYAN BLOG</th>
+    <th>OWLSEC TECHNOLOGIES</th>
+    <th>SAOA TECHNOLOGIES</th>
+  </tr>
+  <tr>
+    <td><a href="https://stephenajulu.github.io/portfolio/2019-07-07-its-ryan-blog/"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-122058.png?w=240"></a></td>
+    <td><a href="https://stephenajulu.github.io/portfolio/2019-07-07-owlsec-technologies/"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121057.png?w=240"></a></td>
+    <td>50</td>
+  </tr>
+</table> 
       </div>
     </a>
   {% endfor %}
