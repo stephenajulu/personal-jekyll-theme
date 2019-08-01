@@ -8,5 +8,5 @@ title: It's Ryan Blog
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"full","id":1959} -->
-<figure class="wp-block-image alignfull"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-122058.png?w=1024" class="wp-image-1959" /></figure>
+<figure class="wp-block-image alignfull"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-122058.png?w=489" class="wp-image-1959" /></figure>
 <!-- /wp:image -->
