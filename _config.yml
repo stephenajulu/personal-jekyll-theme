@@ -167,13 +167,16 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "March - April 2015"
     description: "French Level 1, Epren College of Professional Studies"
+  - image: "/img/timeline/spidertocat.png"
+    date: "February 2010 - November 2014"
+    description: "Kenya Certificate of Secondary Education, Highway Secondary School"
    
      
 
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/favicon.png"
+timeline-img: "/img/me.jpg"
 
 #############
 # Portfolio #
