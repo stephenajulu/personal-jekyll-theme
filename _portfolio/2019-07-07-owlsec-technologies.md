@@ -7,10 +7,10 @@ title: OwlSec Technologies
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>So far so good, the website is 87% complete. Here are the pictures:</p>
+<p>So far so good, the website is 95% complete. Here are the pictures:</p>
 <p>Go check it out <a href="https://owlsectechnologies.wordpress.com">here</a>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"wide","id":1954} -->
-<figure class="wp-block-image alignwide"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121057.png?w=1024" class="wp-image-1954" /></figure>
+<figure class="wp-block-image alignwide"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121057.png?w=480" class="wp-image-1954" /></figure>
 <!-- /wp:image -->
