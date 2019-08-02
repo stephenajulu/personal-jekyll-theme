@@ -16,3 +16,6 @@ Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 You can watch it in action [here](https://stephenajulu.github.io)!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
+
+Great Thanks to @le4ker
+He created this from Agency and Grayscale Themes
