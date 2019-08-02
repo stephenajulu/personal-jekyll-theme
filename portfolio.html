@@ -5,21 +5,10 @@ title: Portfolio
 ---
 ## Portfolio
 
-<div class="row">
-  {% for portfolio in site.portfolio %}
-    <a href="{{ portfolio.url | prepend: site.baseurl }}">
-      <div class="col-xs-10 col-sm-6 col-md-4">
-        {{ page.content | markdownify }}
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-              {{ portfolio.title }}
-          </div>
-          <div class="panel-body">
-            {{ portfolio.excerpt }}
-          </div>
-        </div>
-      </div>
-    </a>
-  {% endfor %}
-</div>
-
+<table>
+  <tr>
+<td><a href="https://stephenajulu.github.io/portfolio/2019-07-07-its-ryan-blog/"><h4><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-122058.png">It is Ryan Blog</img></h4></a></td>
+<td><a href="https://stephenajulu.github.io/portfolio/2019-07-07-owlsec-technologies/"><h4><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121057.png?w=480">OwlSec Technologies</img></h4></a></td>
+<td><a href="https://stephenajulu.github.io/portfolio/2019-07-07-saoa-enterprises/"><h4><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121310.png">SAOA Technologies</img></h4></a></td>
+  </tr>
+</table>
