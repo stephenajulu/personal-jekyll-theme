@@ -16,6 +16,11 @@ Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 You can watch it in action [here](https://stephenajulu.github.io)!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
-
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="LWYAPL6A3JKXC" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_KE/i/scr/pixel.gif" width="1" height="1" />
+</form>
 ## Great Thanks to [@le4ker](https://github.com/le4ker)
 ### He created this from Agency and Grayscale Themes
