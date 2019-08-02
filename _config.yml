@@ -134,6 +134,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/me.jpg"
+    date: "2nd August 2019"
+    description: "Registered my First Personal Domain Name, stephenajulu.com"
   - image: "/img/timeline/mku.png"
     date: "January 2019 - Ongoing"
     description: "Bachelor of Science in Information Technology, Mount Kenya University"
@@ -152,10 +155,10 @@ events:
   - image: "/img/timeline/cybrary.png"
     date: "April - April 2016"
     description: "Online Certification, Fundamental System Troubleshooting, Cybrary.it"
-  - image: "/img/timeline/cropped-a.jpg"
+  - image: "/img/timeline/a.jpg"
     date: "November 2016 - Ongoing"
     description: "Started my blog and continued creating content"
-  - image: "/img/timeline/cropped-a.jpg"
+  - image: "/img/timeline/a.jpg"
     date: "May 2016 - Ongoing"
     description: "Director, Ajulu Technologies which is now OwlSec Technologies"
   - image: "/img/timeline/mdp.png"
