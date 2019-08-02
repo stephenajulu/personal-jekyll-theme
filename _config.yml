@@ -176,7 +176,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/me.jpg"
+timeline-img: "/img/timeline/favicon.png"
 
 #############
 # Portfolio #
