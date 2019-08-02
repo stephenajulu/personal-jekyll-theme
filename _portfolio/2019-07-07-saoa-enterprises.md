@@ -7,5 +7,5 @@ title: SAOA Enterprises
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"wide","id":1954} -->
-<figure class="wp-block-image alignwide"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121310.png?w=480" class="wp-image-1954" /></figure>
+<figure class="wp-block-image alignwide"><img src="https://ajulusthoughts.files.wordpress.com/2019/07/annotation-2019-07-07-121310.png" class="wp-image-1954" /></figure>
 <!-- /wp:image -->
