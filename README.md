@@ -13,7 +13,7 @@ I'll soon upload a more professional readme and change my domain name to somethi
 
 Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 
-You can watch it in action [here](https://stephenajulu.github.io)!
+You can watch it in action [here](https://stephenajulu.com)!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
 
