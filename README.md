@@ -15,7 +15,15 @@ Go check out my blog [here](https://ajulusthoughts.wordpress.com)!
 
 You can watch it in action [here](https://stephenajulu.com)!
 
+Donate/Support Me: 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L81058L)
+
+<div style="font-size:16px;margin:0 auto;width:300px">
+    <a href="https://www.blockchain.com/btc/address/1DJxuX44dLtTFbBXdaBZUpwhLEh2DLDP5w">
+        <img src="https://blockchain.info/Resources/buttons/donate_64.png"/>
+    </a>
+</div>
+
 
 ## Great Thanks to [@le4ker](https://github.com/le4ker)
 ### He created this from Agency and Grayscale Themes
