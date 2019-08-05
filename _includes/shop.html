@@ -1,16 +1,19 @@
-<!-- Blog Layout Start -->
-
+<!-- Shop Start -->
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
   
-
-  {% include head.html %}
+<head>
   
-
+  <title align=center>Shop</h2>
+  
+  <div class="ec-cart-widget"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?16986950&data_platform=code&data_date=2019-08-05" charset="utf-8"></script>
+<script type="text/javascript">Ecwid.init();</script>
+</div>
+  </head>
+  
   <body>
-
-    {% include navigation.html %}
-    
 
     <section id="page" class="container content-section text-center">
     
@@ -31,17 +34,5 @@
 <script type="text/javascript"> xCategoriesV2("id=my-categories-16986950"); </script>
 </div>
 
-<div class="ec-cart-widget"></div>
-<div>
-<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?16986950&data_platform=code&data_date=2019-08-05" charset="utf-8"></script>
-<script type="text/javascript">Ecwid.init();</script>
-</div>
-
-    {% include footer.html %}
-
-    {% include js.html %}
-
   </body>
 </html>
-
-<!-- Blog Layout End -->
