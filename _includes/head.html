@@ -10,6 +10,7 @@
   <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
   <link rel="alternate" type="application/rss+xml" title="Ajulu's Thoughts" href="https://ajulusthoughts.wordpress.com/rss.xml"/>
    <link rel="alternate" type="application/rss+xml" title="Stephen Ajulu" href="https://stephenajulu.com/rss.xml"/>
+
   <!-- Jekyll SEO Plugin -->
 {% seo %}
   <!-- Bootstrap Core CSS -->
@@ -41,6 +42,7 @@
   {% include web-app.html %}
   {% include color-browser.html %}
   {% include syntax-highlight.html %}
+  {& include mailchimp.html &}
   <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="b503983f-7a29-4831-b488-d51f4ba8242f";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132349593-3"></script>
