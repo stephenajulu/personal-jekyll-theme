@@ -257,6 +257,7 @@ pages_list:
   Timeline: 'timeline'
   Portfolio: 'portfolio'
   Contact: 'contact'
+  Shop: 'shop'
 
 # Exclusion list from the generated _site
 
