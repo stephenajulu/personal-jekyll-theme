@@ -12,7 +12,7 @@ url: ""
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: ""
+baseurl: "/version-two"
 
 # Google tracking id
 
